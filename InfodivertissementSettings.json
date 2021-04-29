@@ -1,0 +1,12 @@
+{
+  "Dashboard": {
+    "TemperatureUnit" :  "C",
+    "TemperatureLeft": 20,
+    "TemperatureRight": 20,
+    "VentilationPower": "Off",
+    "VentilationIntensity" :  5
+  },
+  "Weather": {
+    "Location": "Sherbrooke"
+  }
+}
